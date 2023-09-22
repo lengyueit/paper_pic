@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T06:03:41.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gQ9tGxYnFnHx1PfzfI3L" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T07:36:37.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5vW2QCss_-T5b5xTUJvT" version="21.7.4" type="github">
   <diagram name="第 1 页" id="dx5LBfXrdaf_6E6NQgxS">
     <mxGraphModel dx="2074" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,17 +10,17 @@
         <mxCell id="tK9lox9i2teXWrCNbQyd-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="-50" width="750" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="tK9lox9i2teXWrCNbQyd-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Sentence1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="640" width="150" height="50" as="geometry" />
+        <mxCell id="tK9lox9i2teXWrCNbQyd-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Sentence1/Query&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="640" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tK9lox9i2teXWrCNbQyd-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Sentence2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="630" width="150" height="50" as="geometry" />
+        <mxCell id="tK9lox9i2teXWrCNbQyd-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Sentence2/Question&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="640" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tK9lox9i2teXWrCNbQyd-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;FinBERT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="525" width="140" height="60" as="geometry" />
+          <mxGeometry x="95" y="525" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tK9lox9i2teXWrCNbQyd-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;FinCo-Attn&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="525" width="160" height="60" as="geometry" />
+          <mxGeometry x="285" y="525" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tK9lox9i2teXWrCNbQyd-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;FinKeywords&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1075" y="560" width="190" height="50" as="geometry" />
