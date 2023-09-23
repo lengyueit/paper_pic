@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T07:45:13.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="Enmau6gEgUQP5lwsmV9s" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T07:57:36.672Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="G-YIT9zxuPTrqyvNaSsC" version="21.7.5" type="github">
   <diagram name="第 1 页" id="RxvTJt0qo0vm2YNJzU18">
-    <mxGraphModel>
+    <mxGraphModel dx="604" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="550" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-2" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-3" value="Question" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-5" value="similarity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-6" value="not similarity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-7" value="Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-8" value="Question" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-9" value="Text Matching Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="520" y="85" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-15" value="" style="image;html=1;image=img/lib/clip_art/people/Tech_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R9Obj2QXmukAG5wjVpQ8-17" value="" style="image;html=1;image=img/lib/clip_art/people/Tech_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
