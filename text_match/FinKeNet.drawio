@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T13:56:28.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="heLiAfJkWxLxS1qWEVq6" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T14:01:50.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eEIBpZAVkwFXo_AWmtGB" version="21.7.4" type="github">
   <diagram name="第 1 页" id="dx5LBfXrdaf_6E6NQgxS">
-    <mxGraphModel dx="2901" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3790" dy="2766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,8 +111,8 @@
         <mxCell id="54ne9p0nn-huv2SbynED-61" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Slef-Attention&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="tK9lox9i2teXWrCNbQyd-136">
           <mxGeometry x="30" y="366" width="350" height="69.95" as="geometry" />
         </mxCell>
-        <mxCell id="54ne9p0nn-huv2SbynED-62" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Word-level&amp;nbsp;&lt;/font&gt;Representation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tK9lox9i2teXWrCNbQyd-136">
-          <mxGeometry x="65" y="10" width="370" height="50" as="geometry" />
+        <mxCell id="54ne9p0nn-huv2SbynED-62" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Phrase&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;-level&amp;nbsp;&lt;/font&gt;Representation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tK9lox9i2teXWrCNbQyd-136">
+          <mxGeometry x="60" y="10" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tK9lox9i2teXWrCNbQyd-52" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;FKW&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tK9lox9i2teXWrCNbQyd-136">
           <mxGeometry x="245" y="454.9955102040816" width="100" height="60" as="geometry" />
@@ -240,8 +240,8 @@
         <mxCell id="tK9lox9i2teXWrCNbQyd-140" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Slef-Attention&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="900" y="806" width="350" height="69.95" as="geometry" />
         </mxCell>
-        <mxCell id="tK9lox9i2teXWrCNbQyd-141" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Word-level&amp;nbsp;&lt;/font&gt;Representation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="935" y="450" width="370" height="50" as="geometry" />
+        <mxCell id="tK9lox9i2teXWrCNbQyd-141" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 30px;&quot;&gt;Phrase&lt;/b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;-level&amp;nbsp;&lt;/font&gt;Representation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="450" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tK9lox9i2teXWrCNbQyd-142" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;FKW&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1042" y="894.9955102040816" width="100" height="60" as="geometry" />
