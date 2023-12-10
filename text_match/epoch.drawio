@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T15:33:48.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="93Vi2KQe1YYv7xV6KJ56" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T15:33:56.271Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0OrT2W8YF5s7ZXp4hXQP" version="22.1.7" type="github">
   <diagram name="第 1 页" id="XlkyVgCgfd17ef6noyLU">
-    <mxGraphModel dx="1140" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1710" dy="2259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="OYeKXYBa1Q9h3d7Z6toi-4" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(a) Dfferent epochs with the AFQMC-Chinese dataset.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="-633" width="570" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OYeKXYBa1Q9h3d7Z6toi-5" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(a) Dfferent epochs with the AFQMC-English dataset.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OYeKXYBa1Q9h3d7Z6toi-5" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(b) Dfferent epochs with the AFQMC-English dataset.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="169.5" y="-40" width="570" height="30" as="geometry" />
         </mxCell>
       </root>
