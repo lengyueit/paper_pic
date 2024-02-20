@@ -1,2 +1,2 @@
-# pic of my papers
+# picture of my papers
 
