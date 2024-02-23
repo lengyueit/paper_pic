@@ -1,11 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T09:46:47.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EVMsatETXB5LLAECp1K5" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T09:48:50.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FuH3tbBVP1XWqlOfxuwI" version="23.1.6" type="github">
   <diagram name="第 1 页" id="wsIqYXQQOJqUddbaiJCN">
     <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xq_I_ZEISV1DMctMYtPA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="490" height="240" as="geometry" />
+          <mxGeometry x="10" y="10" width="540" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq_I_ZEISV1DMctMYtPA-2" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq_I_ZEISV1DMctMYtPA-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;请帮我播放贾玲的搞笑电影。&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="169" y="40" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq_I_ZEISV1DMctMYtPA-5" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;播放电影&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="169" y="140" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq_I_ZEISV1DMctMYtPA-6" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;演员：贾玲；电影题材：搞笑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="169" y="200" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq_I_ZEISV1DMctMYtPA-7" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;意图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq_I_ZEISV1DMctMYtPA-8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;槽位&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
