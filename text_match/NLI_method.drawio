@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T08:49:13.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="23D64wENkxtcMSdNbn6u" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T08:49:42.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gtEuC4dt2V4Fgjxi4XLM" version="23.1.6" type="github">
   <diagram name="第 1 页" id="VYbCO--YuYpUogVYsecE">
     <mxGraphModel dx="2630" dy="1863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,9 +300,6 @@
         <mxCell id="rdohVRuR8QGzKIeL4WwT-164" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Word&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;-level&amp;nbsp;&lt;/font&gt;Representation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
           <mxGeometry x="1755" y="779" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rdohVRuR8QGzKIeL4WwT-165" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;sub&gt;Word2&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1924" y="1144.9955102040817" width="90" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="rdohVRuR8QGzKIeL4WwT-166" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;container=0;" vertex="1" parent="1">
           <mxGeometry x="1697" y="830" width="303" height="60" as="geometry" />
         </mxCell>
@@ -416,6 +413,9 @@
         </mxCell>
         <mxCell id="rdohVRuR8QGzKIeL4WwT-140" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Sentence-Word&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 30px;&quot;&gt;Adapter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1380" y="585" width="376" height="87.31" as="geometry" />
+        </mxCell>
+        <mxCell id="rdohVRuR8QGzKIeL4WwT-196" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Word&lt;/span&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;2&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1912" y="1154.9955102040817" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
