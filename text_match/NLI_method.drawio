@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-02T07:05:50.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7WOYHPyawgu8K7CFl97m" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-02T07:08:31.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SAE44o0bUy1kbPLF4yxn" version="23.1.8" type="github">
   <diagram name="第 1 页" id="VYbCO--YuYpUogVYsecE">
     <mxGraphModel dx="2963" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -372,17 +372,8 @@
             <mxPoint x="1891" y="2105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rdohVRuR8QGzKIeL4WwT-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=flexArrow;" parent="1" source="rdohVRuR8QGzKIeL4WwT-140" target="rdohVRuR8QGzKIeL4WwT-204" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rdohVRuR8QGzKIeL4WwT-140" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Sentence-Word&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 30px;&quot;&gt;Adapter&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1220" width="380" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="rdohVRuR8QGzKIeL4WwT-204" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;3-Class Softmax&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1080" width="380" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="JG36jpaIuUBKlSv5XXhP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="276" y="1420" width="1040" height="950" as="geometry" />
+          <mxGeometry x="276" y="1300" width="1040" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="JG36jpaIuUBKlSv5XXhP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JG36jpaIuUBKlSv5XXhP-6" target="JG36jpaIuUBKlSv5XXhP-16">
           <mxGeometry relative="1" as="geometry">
@@ -680,6 +671,21 @@
         </mxCell>
         <mxCell id="JG36jpaIuUBKlSv5XXhP-144" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Char-level Encoder Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=30;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1703" y="1450" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rdohVRuR8QGzKIeL4WwT-140" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Row Max Pooling Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="591" y="1469" width="380" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rdohVRuR8QGzKIeL4WwT-204" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;span&gt;3-Class Decoder Layer&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="591" y="1339" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rdohVRuR8QGzKIeL4WwT-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=flexArrow;" parent="1" source="rdohVRuR8QGzKIeL4WwT-140" target="rdohVRuR8QGzKIeL4WwT-204" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG36jpaIuUBKlSv5XXhP-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="781" y="1610" as="sourcePoint" />
+            <mxPoint x="781" y="1560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
