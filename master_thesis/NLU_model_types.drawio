@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T09:27:15.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zUgzSlF0P3MeeAz7vziD" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T09:27:56.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="lsecD6XjLWnWI1K8BFJU" version="23.1.8" type="github">
   <diagram name="第 1 页" id="Dberdy4dZUjx69q1VtEc">
     <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,16 +13,16 @@
         <mxCell id="aFbI61cHflsxZHIWJsxg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aFbI61cHflsxZHIWJsxg-2" target="aFbI61cHflsxZHIWJsxg-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-2" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-2" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aFbI61cHflsxZHIWJsxg-3" target="aFbI61cHflsxZHIWJsxg-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-3" value="意图识别表征层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-3" value="意图识别表征层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-4" value="意图识别解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-4" value="意图识别解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-9" target="aFbI61cHflsxZHIWJsxg-11" parent="1">
@@ -34,16 +34,16 @@
         <mxCell id="aFbI61cHflsxZHIWJsxg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-11" target="aFbI61cHflsxZHIWJsxg-13" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-11" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-11" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-13" target="aFbI61cHflsxZHIWJsxg-14" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-13" value="槽位填充表征层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-13" value="槽位填充表征层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-14" value="槽位填充解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-14" value="槽位填充解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-16" target="aFbI61cHflsxZHIWJsxg-18" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="aFbI61cHflsxZHIWJsxg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-18" target="aFbI61cHflsxZHIWJsxg-20" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-18" value="共享编码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-18" value="共享编码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="577" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-20" target="aFbI61cHflsxZHIWJsxg-21" parent="1">
@@ -64,13 +64,13 @@
         <mxCell id="aFbI61cHflsxZHIWJsxg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aFbI61cHflsxZHIWJsxg-20" target="aFbI61cHflsxZHIWJsxg-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-20" value="共享表征层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-20" value="共享表征层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="577" y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-21" value="意图识别解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-21" value="意图识别解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="487" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-22" value="槽位填充解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-22" value="槽位填充解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="667" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-25" target="aFbI61cHflsxZHIWJsxg-27" parent="1">
@@ -82,7 +82,7 @@
         <mxCell id="aFbI61cHflsxZHIWJsxg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-27" target="aFbI61cHflsxZHIWJsxg-30" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-27" value="共享编码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-27" value="共享编码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-30" target="aFbI61cHflsxZHIWJsxg-31" parent="1">
@@ -91,13 +91,13 @@
         <mxCell id="aFbI61cHflsxZHIWJsxg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-30" target="aFbI61cHflsxZHIWJsxg-32" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-30" value="交互模块层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-30" value="交互模块层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-31" value="意图识别解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-31" value="意图识别解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry y="380" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-32" value="槽位填充解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-32" value="槽位填充解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="180" y="380" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aFbI61cHflsxZHIWJsxg-34" target="aFbI61cHflsxZHIWJsxg-39">
@@ -112,13 +112,13 @@
         <mxCell id="aFbI61cHflsxZHIWJsxg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="aFbI61cHflsxZHIWJsxg-39" target="aFbI61cHflsxZHIWJsxg-41" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-39" value="预训练层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-39" value="预训练层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="577" y="540" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-40" value="意图识别解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-40" value="意图识别解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="487" y="380" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aFbI61cHflsxZHIWJsxg-41" value="槽位填充解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="aFbI61cHflsxZHIWJsxg-41" value="槽位填充解码器" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="667" y="380" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFbI61cHflsxZHIWJsxg-43" value="（a）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
