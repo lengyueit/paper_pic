@@ -103,7 +103,7 @@
         <mxCell id="l_1t_sgI9aiKv9MoCbIX-30" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1820" y="200" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l_1t_sgI9aiKv9MoCbIX-31" value="&lt;span style=&quot;font-family: 等线; text-align: left;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;相关性评价模型&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeWidth=1;shadow=1;fillColor=#3265be;strokeColor=#10739e;align=right;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=none;" vertex="1" parent="l_1t_sgI9aiKv9MoCbIX-30">
+        <mxCell id="l_1t_sgI9aiKv9MoCbIX-31" value="&lt;span style=&quot;font-family: 等线; text-align: left;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 25px;&quot;&gt;相关性评价模型&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeWidth=1;shadow=1;fillColor=#3265be;strokeColor=#10739e;align=right;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=none;opacity=70;" vertex="1" parent="l_1t_sgI9aiKv9MoCbIX-30">
           <mxGeometry width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l_1t_sgI9aiKv9MoCbIX-32" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes_Services.svg;fontColor=#050505;imageBackground=none;shadow=1;" vertex="1" parent="l_1t_sgI9aiKv9MoCbIX-30">
