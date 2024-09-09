@@ -13,22 +13,19 @@
         <mxCell id="b2E3thXhPP_fgpnL_Cfy-3" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;POS Encoder Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0D6C2;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="790" width="400" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="b2E3thXhPP_fgpnL_Cfy-7" value="请/v&#xa;帮/v&#xa;我/r&#xa;查询/v&#xa;苹果公司/n&#xa;现在/t&#xa;的/uj&#xa;股价/n" style="text;whiteSpace=wrap;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1070" width="90" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="b2E3thXhPP_fgpnL_Cfy-9" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;Semantic Fusion Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="130" y="500" width="730" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b2E3thXhPP_fgpnL_Cfy-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="950" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="b2E3thXhPP_fgpnL_Cfy-4" value="&lt;span style=&quot;font-family: 等线; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;请&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;container=0;" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-10">
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-4" value="&lt;span style=&quot;font-family: 等线; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;X1&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;container=0;" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-10">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2E3thXhPP_fgpnL_Cfy-5" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;qin&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;container=0;" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-10">
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-5" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;PY1&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;container=0;" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-10">
           <mxGeometry y="60" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b2E3thXhPP_fgpnL_Cfy-6" value="&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;v&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-10">
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-6" value="&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;POS1&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;container=0;" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-10">
           <mxGeometry y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2E3thXhPP_fgpnL_Cfy-12" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;Intent Decoder Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8D8EA;strokeColor=default;" vertex="1" parent="1">
