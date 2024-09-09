@@ -7,11 +7,29 @@
         <mxCell id="p3LiCyYIhPTqzkSWPBXI-1" value="&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Times New Roman&quot;&gt;ChineseBERT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8FA2C3;strokeColor=default;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry y="560" width="800" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="b2E3thXhPP_fgpnL_Cfy-1" value="请帮我查询苹果公司现在的股价" style="text;whiteSpace=wrap;fontFamily=等线;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="220" y="770" width="490" height="40" as="geometry" />
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-1" value="请帮我查询苹果公司现在的股价" style="text;whiteSpace=wrap;fontFamily=等线;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="1030" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b2E3thXhPP_fgpnL_Cfy-3" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Self-Attention&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0D6C2;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="560" width="820" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-7" value="请/v&#xa;帮/v&#xa;我/r&#xa;查询/v&#xa;苹果公司/n&#xa;现在/t&#xa;的/uj&#xa;股价/n" style="text;whiteSpace=wrap;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="920" y="960" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="820" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-4" value="&lt;span style=&quot;font-family: 等线; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;请&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-8">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-5" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;qin&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-8">
+          <mxGeometry y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-6" value="&lt;span style=&quot;font-weight: 400; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;v&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="b2E3thXhPP_fgpnL_Cfy-8">
+          <mxGeometry y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b2E3thXhPP_fgpnL_Cfy-9" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Semantic Fusion Layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8d8ea;strokeColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="800" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
