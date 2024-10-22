@@ -73,6 +73,15 @@
         <mxCell id="f9mYp44gyk8aZ-Xdl-M6-9" value="W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="514" y="220" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CVISXVQ1rCeILexJUnb6-1" value="&lt;i&gt;O&lt;span style=&quot;font-size: 25px;&quot;&gt;2&lt;/span&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=30;fillColor=#fdde98;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CVISXVQ1rCeILexJUnb6-2" value="&lt;i&gt;O&lt;span style=&quot;font-size: 25px;&quot;&gt;3&lt;/span&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=30;fillColor=#fdde98;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CVISXVQ1rCeILexJUnb6-3" value="&lt;i&gt;O&lt;span style=&quot;font-size: 25px;&quot;&gt;4&lt;/span&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=30;fillColor=#fdde98;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="580" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
