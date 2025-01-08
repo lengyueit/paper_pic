@@ -61,7 +61,7 @@
         <mxCell id="LawNj0czzO5UbxQvlDM8-16" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Step3: Add slot prediction prompt with ICx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="690" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LawNj0czzO5UbxQvlDM8-17" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Intent Prompt Template&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
+        <mxCell id="LawNj0czzO5UbxQvlDM8-17" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Slot Prediction Template&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
           <mxGeometry x="244" y="630" width="320" height="70" as="geometry" />
         </mxCell>
       </root>
