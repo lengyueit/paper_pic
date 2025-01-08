@@ -97,10 +97,10 @@
         <mxCell id="LawNj0czzO5UbxQvlDM8-47" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="10" width="660" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LawNj0czzO5UbxQvlDM8-49" value="&lt;span style=&quot;text-align: center;&quot;&gt;intent classification&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;container=0;" vertex="1" parent="1">
+        <mxCell id="LawNj0czzO5UbxQvlDM8-49" value="&lt;span style=&quot;text-align: center;&quot;&gt;Intent Classification&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;container=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="35" width="381" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LawNj0czzO5UbxQvlDM8-52" value="&lt;span style=&quot;text-align: center;&quot;&gt;intent classification&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;container=0;" vertex="1" parent="1">
+        <mxCell id="LawNj0czzO5UbxQvlDM8-52" value="&lt;span style=&quot;text-align: center;&quot;&gt;Slot Prediction&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;container=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="100" width="381" height="30" as="geometry" />
         </mxCell>
       </root>
