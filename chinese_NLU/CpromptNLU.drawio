@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LawNj0czzO5UbxQvlDM8-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="123" y="1082" width="1270" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="LawNj0czzO5UbxQvlDM8-65" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="123" y="663" width="1270" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-64" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="130" y="277" width="1270" height="330" as="geometry" />
+          <mxGeometry x="123" y="277" width="1270" height="330" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-6" value="&lt;span style=&quot;font-size: 25px; text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;请根据用户输入预测用户意图，用户输入：X&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Predict user intent based on user input, user input: X&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#cbe2f5, #ededed);" vertex="1" parent="1">
           <mxGeometry x="164" y="394" width="370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Step2: Add intent classification prompt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="238" width="600" height="30" as="geometry" />
+          <mxGeometry x="434" y="233" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-3" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Times New Roman&quot;&gt;Intent Prompt Template&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
           <mxGeometry x="193" y="308" width="320" height="70" as="geometry" />
@@ -26,16 +32,16 @@
           <mxGeometry x="1004" y="404" width="370" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-15" value="&lt;span style=&quot;font-size: 25px; text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;请根据用户意图和用户输入预测具体槽位，用户的意图：ICx，用户输入：X&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Predict the specific slot based on user intent and user input, user intent: ICx, user input: X&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#d5ebd0, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="164" y="764" width="370" height="250" as="geometry" />
+          <mxGeometry x="164" y="762" width="370" height="250" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Step3: Add slot prediction prompt with ICx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="620" width="690" height="30" as="geometry" />
+          <mxGeometry x="389" y="620" width="690" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-18" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Step4: Add slot filling prompt with ICx and SPx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1044" width="690" height="30" as="geometry" />
+          <mxGeometry x="389" y="1044" width="690" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-20" value="&lt;span style=&quot;font-size: 25px; text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;请根据用户意图、槽位和用户输入预测槽位值，用户的意图：ICx，槽位：SPx，用户输入：X&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Predict slot values based on user intent, slot, and user input. User intent: ICx, slot: SPx, user input: X&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#fff1c8, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="164" y="1184" width="370" height="270" as="geometry" />
+          <mxGeometry x="164" y="1187" width="370" height="270" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 25px; text-align: left;&quot;&gt;SPx=歌名&lt;/span&gt;&lt;span style=&quot;font-size: 24px; text-align: left;&quot;&gt;&amp;nbsp;(SongName)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#d5ebd0, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1004" y="797" width="370" height="180" as="geometry" />
@@ -98,10 +104,10 @@
           <mxGeometry x="904" y="1277" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 30px;&quot;&gt;Step1:User input (X) and ground truth (ICx, SPx, SFx)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="294" y="10" width="880" height="30" as="geometry" />
+          <mxGeometry x="294" y="19" width="880" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="109" y="70" width="590" height="140" as="geometry" />
+          <mxGeometry x="123" y="70" width="590" height="140" as="geometry" />
         </mxCell>
         <mxCell id="m3Y7h9TqKD-D8q7Xrxun-1" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="LawNj0czzO5UbxQvlDM8-55" vertex="1">
           <mxGeometry width="590" height="140" as="geometry" />
@@ -116,7 +122,7 @@
           <mxGeometry x="165" y="70" width="395" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="715" y="70" width="660" height="140" as="geometry" />
+          <mxGeometry x="733" y="70" width="660" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-47" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="LawNj0czzO5UbxQvlDM8-58">
           <mxGeometry width="660" height="140" as="geometry" />
@@ -137,13 +143,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LawNj0czzO5UbxQvlDM8-60" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;PLM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="694" y="394" width="200" height="196" as="geometry" />
+          <mxGeometry x="680" y="404" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LawNj0czzO5UbxQvlDM8-61" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;PLM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="680" y="789" width="200" height="196" as="geometry" />
+        <mxCell id="LawNj0czzO5UbxQvlDM8-67" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;PLM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="680" y="797" width="200" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LawNj0czzO5UbxQvlDM8-62" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;PLM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="680" y="1224" width="200" height="196" as="geometry" />
+        <mxCell id="LawNj0czzO5UbxQvlDM8-68" value="&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;PLM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#efefef, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="680" y="1232" width="200" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
