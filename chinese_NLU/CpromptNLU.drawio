@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="zAd_wPdVps35s6MXC-Z_">
-    <mxGraphModel dx="3187" dy="2860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,13 +101,13 @@
           <mxGeometry x="10" width="590" height="140" as="geometry" />
         </mxCell>
         <mxCell id="m3Y7h9TqKD-D8q7Xrxun-2" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;container=0;" parent="LawNj0czzO5UbxQvlDM8-54" vertex="1">
-          <mxGeometry y="10" width="140" height="110" as="geometry" />
+          <mxGeometry x="10" y="10" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="m3Y7h9TqKD-D8q7Xrxun-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;X: 请帮我播放安和桥。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;container=0;" parent="LawNj0czzO5UbxQvlDM8-54" vertex="1">
-          <mxGeometry x="160" y="30" width="380" height="30" as="geometry" />
+          <mxGeometry x="175" y="30" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m3Y7h9TqKD-D8q7Xrxun-8" value="&lt;span style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;X：&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Please play Anho Bridge for me&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;container=0;" parent="LawNj0czzO5UbxQvlDM8-54" vertex="1">
-          <mxGeometry x="160" y="70" width="360" height="30" as="geometry" />
+          <mxGeometry x="175" y="70" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
