@@ -119,7 +119,7 @@
           <mxGeometry width="590" height="140" as="geometry" />
         </mxCell>
         <mxCell id="m3Y7h9TqKD-D8q7Xrxun-2" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png;container=0;" parent="LawNj0czzO5UbxQvlDM8-55" vertex="1">
-          <mxGeometry y="10" width="140" height="110" as="geometry" />
+          <mxGeometry x="17" y="10" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="m3Y7h9TqKD-D8q7Xrxun-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 25px;&quot;&gt;X: 请帮我播放安和桥。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;container=0;" parent="LawNj0czzO5UbxQvlDM8-55" vertex="1">
           <mxGeometry x="165" y="30" width="380" height="30" as="geometry" />
